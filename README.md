@@ -1,5 +1,7 @@
 # data_columbia_craiditx
 
+## Copyright (c) 2019 CraiditX Ltd. All rights reserved.
+
 ## some words
 
 #### 2019-10-11
